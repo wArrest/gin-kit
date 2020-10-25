@@ -1,0 +1,8 @@
+output   = "models"
+[mysql]
+  dbname  = "dbname"
+  host    = "dbhost"
+  port    = 3306
+  user    = "guest"
+  pass    = "guest"
+  sslmode = "false"
