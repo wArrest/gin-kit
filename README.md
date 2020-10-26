@@ -42,7 +42,7 @@
 * [x] 依赖管理(go mod)
 * [x] 验证器(gin自带的验证器)
 * [x] 部署(docker)
-* [ ] error封装
+* [x] error封装
 
 
 ## Usage
